@@ -28,7 +28,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [🥂 𝐕𝐀𝐒𝐇𝐔 💀](https://t.me/Vashu23456)
 
 ###    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Vashu2456/FIX-X-SPAM-V"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="510" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vashu2456/FIX-X-SPAM-V"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="510" height="138.45"/></a></p>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vashu2456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div>
