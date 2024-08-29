@@ -27,7 +27,7 @@ async def _(event):
     if event.sender_id in SUDOERS:
         FIXXSPAM = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(event.text) > 7:
-            bc = deadly[0]
+            bc = FIXXSPAM[0]
             Xd = int(bc)           
             blaze = await event.reply("**ʟᴇᴀᴠᴇ ᴄᴏᴍᴍᴀɴᴅ ʀᴇᴄᴇɪᴠᴇᴅ 🥺**")
             try:
