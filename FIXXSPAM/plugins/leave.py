@@ -25,7 +25,7 @@ hl = config.CMD_HNDLR
 async def _(event):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
     if event.sender_id in SUDOERS:
-        deadly = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
+        FIXXSPAM = ("".join(event.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(event.text) > 7:
             bc = deadly[0]
             Xd = int(bc)           
