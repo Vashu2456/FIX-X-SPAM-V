@@ -22,11 +22,11 @@ OWNER_ID = config.OWNER_ID
 
 FIXX_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/demon_squad_help_desk"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/chat_group_003")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/DEMONSQUAD001"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/demon_squad_help_desk")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "@string_session_v_bot")
+        Button.url("• Rᴇᴘᴏ •", "https://t.me/i_am_hacker_01")
         ]
         ]
         
@@ -50,7 +50,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[『𝐕𝐀𝐒𝐇𝐔』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝐕𝐀𝐒𝐇𝐔𓄂⌂🔱 𝐕 ❤️ 𝐅](tg://user?id={1321796330})"
+        creator = f"[『𝐕𝐀𝐒𝐇𝐔』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝐕𝐀𝐒𝐇𝐔𓄂⌂🔱 𝐕 ❤️ 𝐅](tg://user?id={7496416021})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ꜰɪx x ꜱᴘᴀᴍ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
