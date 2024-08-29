@@ -21,7 +21,7 @@ for name in files:
         load_plugins(plugin_name.replace("re.py", "py"))
 
 fixxspam = "💙👀 Successfully Deployed YOUR SpamBot 💙👀 @i_am_hacker_01 Enjoy! Do visit @demon_squad_help_desk"
-print(deadly[0: ])
+print(FIXXSPAM[0: ])
 
 if __name__ == "__main__":
     BOT0.run_until_disconnected()
