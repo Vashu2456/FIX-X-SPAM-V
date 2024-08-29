@@ -1,5 +1,5 @@
 import config
-from FIXXSPAM import BOT0, deadlyversion, SUDOERS
+from FIXXSPAM import BOT0, FIXXSPAMversion, SUDOERS
 from telethon import events, version, Button
 from telethon.tl.custom import button
 
