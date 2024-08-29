@@ -13,14 +13,14 @@ import asyncio
 import sys
 import git
 import config
-# Changed root to DEADLYSPAM
+# Changed root to FIXXSPAM
 from FIXXSPAM import BOT0, SUDOERS, CHUT
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import events, version
 
 hl = config.CMD_HNDLR 
 
-@BOT0.on(events.NewMessage(incoming=True, pattern=r"\%saddsudo(?: |$)(.*)" % hl))
+@BOT0.on(events.NewMessage(incoming=True, pattern=r"\%sdelsudo(?: |$)(.*)" % hl))
 async def tb(event):
     if event.sender_id in CHUT:
        if event.reply_to_msg_id is not None:
