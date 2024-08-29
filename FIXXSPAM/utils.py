@@ -7,7 +7,7 @@ import inspect
 import re
 
 def load_plugins(plugin_name):
-    path = Path(f"FIXXSPAM/plugins/{plugin_name}.py")
+    path = Path(f"FIXXSPAM/plugins/{plugin_name}re.py")
     name = "FIXXSPAM.plugins.{}".format(plugin_name)
     spec = importlib.util.spec_from_file_location(name, path)
     load = importlib.util.module_from_spec(spec)
