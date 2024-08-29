@@ -17,7 +17,7 @@ FIXXSPAM = "✯  𝐕𝐀𝐒𝐇𝐔 𝐗 𝐅𝐈𝐗 𝐒𝐏𝐀𝐌  ✯\n\
 FIXXSPAM += f"═══════════════════\n"
 FIXXSPAM += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `4.0.0`\n"
 FIXXSPAM += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-FIXXSPAM += f"• **ᴠᴀꜱʜᴜ x ᴋᴀ ᴠᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
+FIXXSPAM += f"• **ᴠᴀꜱʜᴜ x ᴋᴀ ᴠᴇʀsɪᴏɴ**  : `{FIXXSPAMversion}`\n"
 FIXXSPAM += f"═══════════════════\n\n"   
 
 
