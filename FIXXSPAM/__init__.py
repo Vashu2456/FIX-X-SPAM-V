@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 print("[FIXXSPAM] Version Check is being Processed") 
 #VERSION
-deadlyversion = "v3.0.0"
+fixxspamversion = "v3.0.0"
 
 print("[FIXXSPAM] Booting sudolist") 
 #SUDOERS
