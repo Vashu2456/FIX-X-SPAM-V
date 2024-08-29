@@ -18,9 +18,9 @@ for name in files:
     with open(name) as a:
         patt = Path(a.name)
         plugin_name = patt.stem
-        load_plugins(plugin_name.replace(".py", ""))
+        load_plugins(plugin_name.replace(".py", "py"))
 
-fixxspam = "💙👀 Successfully Deployed YOUR SpamBot 💙👀 @i_am_vashu Enjoy! Do visit @FIX_X_MUSIC_V_BOT"
+fixxspam = "💙👀 Successfully Deployed YOUR SpamBot 💙👀 @i_am_hacker_01 Enjoy! Do visit @demon_squad_help_desk"
 print(deadly[0: ])
 
 if __name__ == "__main__":
