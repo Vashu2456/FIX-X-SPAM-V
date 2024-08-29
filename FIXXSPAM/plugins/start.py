@@ -51,7 +51,7 @@ async def start(e):
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
         creator = f"[『𝐕𝐀𝐒𝐇𝐔』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝐕𝐀𝐒𝐇𝐔𓄂⌂🔱 𝐕 ❤️ 𝐅](tg://user?id={7496416021})"
-        DEADLY_ON = f"""
+        FIXXSPAM_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ꜰɪx x ꜱᴘᴀᴍ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
 
