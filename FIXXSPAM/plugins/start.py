@@ -22,11 +22,11 @@ OWNER_ID = config.OWNER_ID
 
 FIXX_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/i_am_vashu"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Vashu123vg")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/demon_squad_help_desk"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/chat_group_003")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://t.me/FIX_X_MUSIC_V_BOT")
+        Button.url("• Rᴇᴘᴏ •", "@string_session_v_bot")
         ]
         ]
         
