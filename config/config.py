@@ -14,7 +14,7 @@ OWNER_ID = int(getenv("OWNER_ID", "7496416021"))
 
 OWNER_NAME = getenv("OWNER_NAME" , "VASHU") 
 SUDO_USER= list(
-    map(int, getenv("SUDO_USER", "5530389255").split())
+    map(int, getenv("SUDO_USER", "6829300557").split())
 )
 # BOT TOKEN CONFIG VARS (get all vars detail from @botfather) 
 BOT_TOKEN = getenv("BOT_TOKEN", "7498473207:AAE7oA7J_txCGDSmEfEdAnC8uryFIUapS4g") 
